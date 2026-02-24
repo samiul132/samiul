@@ -6,6 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
+```
 
 Open [https://mdsamiularfin-portfolio.vercel.app/](https://mdsamiularfin-portfolio.vercel.app/) with your browser to see the result.
 
