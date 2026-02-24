@@ -14,21 +14,21 @@ const projects = [
     title: "Vue.js Admin Dashboard",
     tag: "Frontend · Vue.js · Tailwind",
     desc: "Feature-rich admin panel with data tables, charts, and dynamic form builders. Deployed across 3 client projects.",
-    year: "2024",
+    year: "2025",
   },
   {
     id: "03",
     title: "React Native Mobile App",
     tag: "Mobile · React Native · Node.js",
     desc: "Cross-platform e-commerce app with push notifications, offline support, and seamless payment integration.",
-    year: "2023",
+    year: "2025",
   },
   {
     id: "04",
     title: "Next.js E-Commerce Store",
     tag: "Full Stack · Next.js · MySQL",
     desc: "Server-side rendered storefront with dynamic routing, cart management, and Laravel REST API backend.",
-    year: "2023",
+    year: "2026",
   },
 ];
 
