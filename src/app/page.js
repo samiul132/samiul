@@ -177,7 +177,10 @@ export default function Home() {
 
       {/* FOOTER */}
       <footer>
-        <span className="footer-copy">© 2025 Md Samiul Arfin — All rights reserved</span>
+        <span className="footer-copy">
+          © 2026
+          {new Date().getFullYear() > 2026 ? `-${new Date().getFullYear()}` : ""} Md Samiul Arfin — All rights reserved
+        </span>
         <div className="footer-dot" title="Open to work" />
       </footer>
     </div>
