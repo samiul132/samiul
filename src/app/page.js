@@ -469,7 +469,7 @@ export default function Home() {
         {/* HERO */}
         <section className="hero">
           <div className="hero-left">
-            <p className="hero-eyebrow">Available for hire · 2025</p>
+            <p className="hero-eyebrow">Available for hire · 2026</p>
             <h1 className="hero-name">Full Stack<br /><em>Developer</em></h1>
             <p className="hero-bio">
               I craft robust web and mobile applications — from elegant Laravel
