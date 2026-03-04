@@ -178,7 +178,7 @@ const skills = [
   "Laravel", "PHP", "MySQL", "JavaScript",
   "Vue.js", "Next.js", "React Native", "Node.js",
   "Tailwind CSS", "Bootstrap", "React", "REST API",
-  "Git", "GitHub", "Bitbucket", "Express.js", "Firebase",
+  "Git", "GitHub", "Bitbucket", "Firebase",
 ];
 
 /* ─────────────────────────────────────────────────────
@@ -486,7 +486,7 @@ export default function Home() {
               <div><div className="stat-number">1<sup>+</sup></div><div className="stat-label">Years of exp.</div></div>
               <div><div className="stat-number">8<sup>+</sup></div><div className="stat-label">Projects shipped</div></div>
               <div><div className="stat-number">5<sup>+</sup></div><div className="stat-label">Clients served</div></div>
-              <div><div className="stat-number">12<sup>+</sup></div><div className="stat-label">Tech stacks</div></div>
+              <div><div className="stat-number">10<sup>+</sup></div><div className="stat-label">Tech stacks</div></div>
             </div>
           </div>
         </section>
