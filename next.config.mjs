@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
+  images: {
+    unoptimized: true, // fine for Vercel, remove if you want optimization
+  },
 };
 
 export default nextConfig;
